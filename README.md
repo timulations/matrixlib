@@ -4,6 +4,9 @@ Disclaimer: This is a simple library which I wrote in my spare time to practice 
 
 This is a basic header-only matrix library, with basic support for matrix arithmetic operations and compile time support.
 
+## CI
+[![Actions Status](https://github.com/timulations/matrixlib/workflows/CMake%20Build,%20Test,%20Codecov%20and%20Doxygen/badge.svg)](https://github.com/timulations/matrixlib/actions/workflows/cmake.yml)
+
 ## Quickstart
 To get started, copy both `matrixLib.hpp` and `utils.h` into your project and `#include "matrixLib.hpp"` to start using the library.
 
