@@ -1,14 +1,3 @@
-# MatrixLib
-
-Disclaimer: This is a simple library which I wrote in my spare time to practice setting up a full project on GitHub.
-
-This is a basic header-only matrix library, with basic support for matrix arithmetic operations and compile time support.
-
-## Quickstart
-To get started, copy both `matrixLib.hpp` and `utils.h` into your project and `#include "matrixLib.hpp"` to start using the library.
-
-Example:
-```cpp
 #include <iostream>
 #include <vector>
 
@@ -37,7 +26,3 @@ int main(int argc, char *argv[]) {
 
     return EXIT_SUCCESS;
 }
-```
-
-## Full Documentation
-Please refer to doc/MatrixLib.pdf

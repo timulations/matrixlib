@@ -1,7 +1,5 @@
 # MatrixLib
 
-Disclaimer: This is a simple library which I wrote in my spare time to practice setting up a full project on GitHub.
-
 This is a basic header-only matrix library, with basic support for matrix arithmetic operations and compile time support.
 
 ## Quickstart
@@ -38,6 +36,3 @@ int main(int argc, char *argv[]) {
     return EXIT_SUCCESS;
 }
 ```
-
-## Full Documentation
-Please refer to doc/MatrixLib.pdf

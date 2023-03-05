@@ -1,0 +1,6 @@
+PROJECT_NAME           = "MatrixLib"
+INPUT                  = @CMAKE_CURRENT_SOURCE_DIR@/include
+FILE_PATTERNS          = *.hpp
+RECURSIVE              = NO
+USE_MDFILE_AS_MAINPAGE = doc/mainpage.md
+OUTPUT_DIRECTORY       = @CMAKE_CURRENT_SOURCE_DIR@/doc
